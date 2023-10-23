@@ -1,0 +1,5 @@
+{
+  "create_playlist": { "owner_id": "4", "song_ids": ["16", "17", "18"] },
+  "add_song_to_playlist": { "playlist_id": "3", "song_id": "6" },
+  "remove_playlist": "2"
+}
